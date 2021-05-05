@@ -67,7 +67,7 @@ def menu():
     print '\x1b[92mAuther Hama.Bn.dlaj'
     print '\x1b[91mTelegram:kurdhackerzw'
     print '\x1b[93mTelegram channel:kurdhacker_hama_bn_dlaj'
-    print '\x1b[92mYoutube :Warzone Cracker
+    print '\x1b[92mYoutube :Warzone Cracker'
     
     print logo
     print 42 * '\x1b[1;91m-'
